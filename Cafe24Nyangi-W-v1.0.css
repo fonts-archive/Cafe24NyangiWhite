@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "Cafe24 Nyangi W";
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  src: url("https://cdn.jsdelivr.net/gh/fonts-archive/Cafe24NyangiWhite/Cafe24Nyangi-W-v1.0.woff2") format("woff2"),
+      url("https://cdn.jsdelivr.net/gh/fonts-archive/Cafe24NyangiWhite/Cafe24Nyangi-W-v1.0.woff") format("woff"),
+      url("https://cdn.jsdelivr.net/gh/fonts-archive/Cafe24NyangiWhite/Cafe24Nyangi-W-v1.0.otf") format("opentype"),
+      url("https://cdn.jsdelivr.net/gh/fonts-archive/Cafe24NyangiWhite/Cafe24Nyangi-W-v1.0.ttf") format("truetype");
+}
